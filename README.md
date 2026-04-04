@@ -1,16 +1,13 @@
-## Hi there 👋
+👩🏼‍💻 Olá! Eu sou a Juliana Diedrich uma Bacharel em Direito migrando para ADS!💡
 
-<!--
-**JulianaDiedrich/JulianaDiedrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💜 Amante da Tecnologia 💻🖥📲🖱⌨️
 
-Here are some ideas to get you started:
+📑📨 PJ - Desiree Sovereign LTX (Analista de Licitações e Negócios Públicos em TI 🇧🇷🇺🇸🇵🇹 para CorefyIT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Iniciante em Python 🐍
+Apaixonada por Excel 📈
+Futura Analista de Dados 📊
+
+
+E aqui um desabafo/segredo : Migrando para ADS por amor a tecnologia ❤️ , pelo Home Office 💻 e nao pode faltar pelo 💰!
