@@ -11,3 +11,5 @@ Futura Analista de Dados 📊
 
 
 E aqui um desabafo/segredo : Migrando para ADS por amor a tecnologia ❤️ , pelo Home Office 💻 e nao pode faltar pelo 💰!
+
+Email: code.byjudiedrich@gmail.com
